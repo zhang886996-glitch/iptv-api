@@ -50,9 +50,6 @@ jobs:
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          # 拉取最新代码以防冲突
-          git pull --rebase
-          
           # 添加所有变动
           git add -A
           
@@ -61,6 +58,8 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "🔄 Auto update: $(date +'%Y-%m-%d %H:%M:%S UTC')"
+            # 拉取最新代码（此时本地已提交，不会有未暂存的更改）
+            git pull --rebase
             git push
           fi
       
