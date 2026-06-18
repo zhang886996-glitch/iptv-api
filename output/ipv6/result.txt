@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-18 12:36:42,https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+2026-06-18 14:16:43,https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 
 📺央视频道,#genre#
 CCTV-1,https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u

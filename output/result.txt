@@ -1,11 +1,11 @@
 🕘️更新时间,#genre#
-2026-06-18 12:36:42,https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+2026-06-18 14:16:43,https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 
 📺央视频道,#genre#
 CCTV-1,https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
-CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV-1,http://69.30.245.50/live/cctv1.m3u8
 CCTV-1,http://198.204.240.250:82/live/cctv1.m3u8
+CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV-2,https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 CCTV-2,http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV-3,https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
@@ -30,6 +30,7 @@ CCTV-11,https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 CCTV-11,http://74.91.26.218:82/live/cctv11hd.m3u8
 CCTV-11,https://xykt-fix.github.io/play/a02b/index.m3u8
 CCTV-12,https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+CCTV-12,http://74.91.26.218:82/live/cctv12hd.m3u8
 CCTV-13,https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 CCTV-13,http://74.91.26.218:82/live/cctv13hd.m3u8
 CCTV-13,https://cdn3.163189.xyz/163189/cctv13
