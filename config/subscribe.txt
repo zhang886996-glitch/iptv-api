@@ -1,21 +1,20 @@
 # --- 国内基础源 ---
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
-https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv4.m3u
-https://raw.githubusercontent.com/Guovin/iptv-api/main/result/result.txt
-
 # --- 常用合集源 ---
-https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
-https://raw.githubusercontent.com/zhang886996-glitch/IPTV/master/playlist.m3u8
-https://raw.githubusercontent.com/zhang886996-glitch/IPTV/master/playlists/playlist_china.m3u8
-https://raw.githubusercontent.com/cymz668/M3U/main/tv.m3u
-https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/CN.m3u
-https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u
-
 # --- 全球频道源 (按需添加) ---
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/eng.m3u
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/usa.m3u
+# 如果你需要更多国家，请按此格式添加，例如：
+# https://raw.githubusercontent.com/iptv-org/iptv/master/streams/jpn.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
+https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u
 https://raw.githubusercontent.com/Free-TV/IPTV/refs/heads/master/playlist.m3u8
 https://iptv-org.github.io/iptv/index.m3u
 https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/itv.m3u
-# 如果你需要更多国家，请按此格式添加，例如：
-# https://raw.githubusercontent.com/iptv-org/iptv/master/streams/jpn.m3u
+
+# https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv4.m3u
+# https://raw.githubusercontent.com/Guovin/iptv-api/main/result/result.txt
+# https://raw.githubusercontent.com/zhang886996-glitch/IPTV/master/playlist.m3u8
+# https://raw.githubusercontent.com/zhang886996-glitch/IPTV/master/playlists/playlist_china.m3u8
+# https://raw.githubusercontent.com/cymz668/M3U/main/tv.m3u
+# https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/CN.m3u
+# https://raw.githubusercontent.com/iptv-org/iptv/master/streams/eng.m3u
+# https://raw.githubusercontent.com/iptv-org/iptv/master/streams/usa.m3u
