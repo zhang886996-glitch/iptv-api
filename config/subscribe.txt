@@ -1,9 +1,9 @@
 # 基础稳定订阅源
+# 备用订阅源
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
 https://raw.githubusercontent.com/zhang886996-glitch/IPTV/master/playlist.m3u8
 https://raw.githubusercontent.com/zhang886996-glitch/IPTV/master/playlists/playlist_china.m3u8
 
-# 备用订阅源
-https://raw.githubusercontent.com/Guovin/iptv-api/main/result/result.txt
-https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv4.m3u
+# https://raw.githubusercontent.com/Guovin/iptv-api/main/result/result.txt
+# https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv4.m3u
