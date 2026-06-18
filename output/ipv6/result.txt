@@ -1,7 +1,7 @@
 🕘️更新时间,#genre#
-2026-06-18 18:12:11,https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+2026-06-18 19:44:28,https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 
-📺央视频道,#genre#
+♻️未匹配频道,#genre#
 CCTV-1,https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 CCTV-1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?
 CCTV-2,https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
@@ -51,8 +51,6 @@ CETV-3,https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 CETV-3,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226577/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EhE2Z89HKgsQOlN9opVn1iw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN03yUnk4zBVk1bynPPL3hZ%2CEND
 CETV-4,https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 CETV-4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EAw_OvjRgJVjtlaOa0dcgzg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-
-📡卫视频道,#genre#
 广东卫视,https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 广东卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226961/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2MGyx659D_aaDPP0qt3NgA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 香港卫视,https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
@@ -118,13 +116,9 @@ CETV-4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 新疆卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227011/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ExAUu61iVvo_xYbANWJhgXw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 云南卫视,https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 云南卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227028/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGfQPqRNVeBjTMsZ48qu0SA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-
-☘️广东频道,#genre#
 广东珠江,https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 广东体育,https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 广东新闻,https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
-广东卫视,https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
-广东卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226961/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2MGyx659D_aaDPP0qt3NgA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 广东民生,https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 大湾区卫视,https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 广州综合,https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
@@ -133,8 +127,6 @@ CETV-4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 江门综合,https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 江门侨乡生活,https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 佛山综合,https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
-深圳卫视,https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
-深圳卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGrVNEZREjuNVKiTJo2mtwg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 汕头综合,https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 汕头经济,https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 汕头文旅,https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
