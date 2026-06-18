@@ -2,9 +2,9 @@ name: 🤖 Auto Update IPTV Sources
 
 on:
   schedule:
-    # 建议使用 15 分钟偏移量，避开整点高峰
-    - cron: '15 */12 * * *'
-  workflow_dispatch: 
+    # 07:15 UTC (北京时间 15:15) 和 19:15 UTC (北京时间 03:15)
+    - cron: '15 7,19 * * *'
+  workflow_dispatch:
 
 jobs:
   update:
