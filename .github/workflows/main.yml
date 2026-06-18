@@ -12,6 +12,9 @@ name: 'Update schedule'
 on:
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   push:
     runs-on: ${{ matrix.operating-system }}
